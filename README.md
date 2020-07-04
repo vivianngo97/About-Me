@@ -1,4 +1,4 @@
-# Vivian Ngo
+# About Me
 
 Hi and thank you for visiting! 
 
@@ -13,3 +13,5 @@ In the past I have worked at CPP Investment Board in the Quantitative Research t
 In terms of teaching experience, I have been a Course Instructor for STA220 and a Teaching Assistant for STA130, STA255, and STA257 at the University of Toronto. I also have experience teaching children up to the 12th grade as a Math Instructor. 
 
 More details about me can be found in my [resume](https://github.com/vivianngo97/About-Me/blob/master/Vivian_Ngo_s_CV_np.pdf).
+
+-Vivian Ngo
