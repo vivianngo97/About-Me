@@ -6,7 +6,7 @@ I am currently a Master of Science candidate at the University of Toronto Depart
 
 I graduated from the University of Toronto with an Honours Bachelor of Science (HBSc) degree with High Distinction. My HBSc programs of study were the Statistics Specialist and Mathematics Major. (The Statistics Specialist is essentially a double major in applied statistics and theoretical statistics).
 
-My interests include data science and teaching. I have completed some projects using statistical techniques and machine learning techniques that can be found in [my_projects](https://github.com/vivianngo97/My_Projects). I am currently working on a new adaptive MCMC framework for multimodal distributions and an image classification project for x-rays with different strains of pneumonia. 
+My interests include data science and teaching. I have completed some projects using statistical techniques and machine learning techniques that can be found in [my projects](https://github.com/vivianngo97/My_Projects). I am currently working on a new adaptive MCMC framework for multimodal distributions and an image classification project for x-rays with different strains of pneumonia. 
 
 In the past I have worked at CPP Investment Board in the Quantitative Research team in Total Portfolio Mangagement, the Bank of Montreal in Technology and Operations, and Precima in the Statistical Analytics team. My work has focused on data analytics, quantitative research, and statistical modeling. 
 
