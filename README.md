@@ -10,6 +10,6 @@ My interests include data science and teaching. I have completed some projects u
 
 In the past I have worked at CPP Investment Board in the Quantitative Research team in Total Portfolio Mangagement, the Bank of Montreal in Technology and Operations, and Precima in the Statistical Analytics team. My work has focused on data analytics, quantitative research, and statistical modeling. 
 
-In terms of teaching experience, I have been a Course Instructor for STA220 and a Teaching Assistant for STA130, STA255, and STA257 at the University of Toronto. I also have experience teaching children up to the 12th grade as a Math Instructor at Mathnasium. 
+In terms of teaching experience, I have been a Course Instructor for STA220 and a Teaching Assistant for STA130, STA255, and STA257 at the University of Toronto. I also have experience teaching children up to the 12th grade as a Math Instructor. 
 
 More details about me can be found in my [resume](https://github.com/vivianngo97/About-Me/blob/master/Vivian_Ngo_s_CV_np.pdf).
