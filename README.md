@@ -14,4 +14,5 @@ In terms of teaching experience, I have been a Course Instructor for STA220 and 
 
 More details about me can be found in my [resume](https://github.com/vivianngo97/About-Me/blob/master/Vivian_Ngo_s_CV_np.pdf).
 
--Vivian Ngo
+Cheers,
+Vivian Ngo
