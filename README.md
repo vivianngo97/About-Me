@@ -1,7 +1,5 @@
 # About Me
 
-[![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianngo97&count_private=true)](https://github.com/vivianngo97/github-readme-stats)
-
 Hi and thank you for visiting! 
 
 I am currently a Master of Science candidate at the University of Toronto Department of Statistical Sciences.
